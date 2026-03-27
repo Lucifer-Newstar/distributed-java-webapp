@@ -16,6 +16,7 @@ The setup includes the following components:
 
 All servers are connected via a private network (192.168.56.0/24) and use hostmanager for DNS resolution.
 
+
 ## Features
 
 - Automated provisioning using shell scripts

@@ -106,4 +106,4 @@ This project is for educational purposes. Please refer to individual component l
 
 ## Acknowledgments
 
-Inspired by distributed systems and DevOps learning resources.
+Inspired from hkhcoder/vprofile-project.
